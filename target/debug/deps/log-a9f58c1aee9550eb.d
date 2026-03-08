@@ -1,0 +1,13 @@
+C:\Users\asdaq\rust_backend\target\debug\deps\log-a9f58c1aee9550eb.d: C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\lib.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\macros.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\serde.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\mod.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\error.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\key.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\source.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\value.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\__private_api.rs
+
+C:\Users\asdaq\rust_backend\target\debug\deps\liblog-a9f58c1aee9550eb.rmeta: C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\lib.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\macros.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\serde.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\mod.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\error.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\key.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\source.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\value.rs C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\__private_api.rs
+
+C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\lib.rs:
+C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\macros.rs:
+C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\serde.rs:
+C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\mod.rs:
+C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\error.rs:
+C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\key.rs:
+C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\source.rs:
+C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\kv\value.rs:
+C:\Users\asdaq\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.29\src\__private_api.rs:

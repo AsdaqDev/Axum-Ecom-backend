@@ -1,0 +1,33 @@
+﻿[package]
+name = "rust_ecom"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = "0.7"
+tokio = { version = "1", features = ["full"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+mongodb = { version = "2.7", features = ["sync", "tokio-runtime"] }
+redis = "0.26" # DragonflyDB compatible
+uuid = { version = "1", features = ["v4"] }
+dotenvy = "0.15"
+jsonwebtoken = "9"
+bcrypt = "0.15"
+tower = "0.4"
+tower-http = { version = "0.5", features = ["cors","trace"] }
+chrono = "0.4"
+thiserror = "1"
+async-graphql = "5"
+async-graphql-axum = "5"
+
+# Prometheus metrics
+prometheus = "0.13"
+
+# Google OAuth
+oauth2 = "4"
+reqwest = { version = "0.12", features = ["json"] }
+
+[dev-dependencies]
+tokio = { version = "1", features = ["full"] }
+serde_json = "1"
